@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttttttttuuuu
+- 👋 Hi, I’m tt
 - 👀 I’m interested in Python、React、node.JS
 - 🌱 What can I do ...
   1. 數據分析 data analysis
@@ -7,6 +7,8 @@
   4. 網站部署 Website deployment
   5. 程序交易 program transaction
   6. API構建 API build
+  7. Swift UI (starting...)
+  8. WEB3.0 (NFT) (starting...)
 
 - 💞️ Hong Kong 、 Taiwan 、 Shen Zhen ...
 - 
